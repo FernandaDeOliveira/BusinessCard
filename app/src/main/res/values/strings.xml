@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">teste</string>
     <string name="label_business_card">Cartão de visita</string>
+    <string name="newcard">New Card</string>
+    <string name="examples">Examples</string>
 </resources>
