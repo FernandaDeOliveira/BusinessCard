@@ -9,7 +9,7 @@ data class BusinessCard(
     //atributos da classe
     @PrimaryKey(autoGenerate = true) val id : Int = 0,
     val name : String,
-    val phone : Int,
+    val phone : String,
     val company : String,
     val email : String,
     val background : String

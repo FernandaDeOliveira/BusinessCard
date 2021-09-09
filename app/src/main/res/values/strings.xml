@@ -3,4 +3,5 @@
     <string name="label_business_card">Cartão de visita</string>
     <string name="newcard">New Card</string>
     <string name="examples">Examples</string>
+    <string name="label_show_sucess">Card Add with sucess</string>
 </resources>
